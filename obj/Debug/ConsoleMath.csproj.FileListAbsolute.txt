@@ -1,0 +1,7 @@
+C:\Users\Wendy\source\repos\ConsoleMath\ConsoleMath\obj\Debug\ConsoleMath.csprojAssemblyReference.cache
+C:\Users\Wendy\source\repos\ConsoleMath\ConsoleMath\obj\Debug\ConsoleMath.csproj.CoreCompileInputs.cache
+C:\Users\Wendy\source\repos\ConsoleMath\ConsoleMath\bin\Debug\ConsoleMath.exe.config
+C:\Users\Wendy\source\repos\ConsoleMath\ConsoleMath\bin\Debug\ConsoleMath.exe
+C:\Users\Wendy\source\repos\ConsoleMath\ConsoleMath\bin\Debug\ConsoleMath.pdb
+C:\Users\Wendy\source\repos\ConsoleMath\ConsoleMath\obj\Debug\ConsoleMath.exe
+C:\Users\Wendy\source\repos\ConsoleMath\ConsoleMath\obj\Debug\ConsoleMath.pdb
